@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @TiborTribus
 - 👀 I’m interested in crypto/blockchain/security
-- 🔭 I’m currently working on Solana (security audits)
-- 💞️ I’m looking to collaborate on Solana Projects
+- 🔭 I’m currently working on ZK/Solana
+- 💞️ I’m looking to collaborate on ZK/Solana Projects
 - 📫 Contact -> @TiborTribus on Twitter, @tribuste on Telegram
 
 <!--
