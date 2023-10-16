@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @TiborTribus
-- 👀 I’m interested in crypto/blockchain/security
-- 🔭 I’m currently working on ZK/Solana
-- 💞️ I’m looking to collaborate on ZK/Solana Projects
+- 👀 I’m interested in crypto, blockchain, security, zero-knowledge proofs, and decentralized proving
+- 🔭 I’m currently working on [MAYA-ZK](https://www.maya-zk.com), focusing on accelerating zero-knowledge proof algorithms and building a decentralized marketplace
+- 💞️ I’m looking to collaborate on ZK, MAYA-ZK Projects, and decentralized proving initiatives
 - 📫 Contact -> @TiborTribus on Twitter, @tribuste on Telegram
 
 <!--
