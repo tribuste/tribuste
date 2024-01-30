@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @TiborTribus
 - 👀 I’m interested in crypto, blockchain, security, zero-knowledge proofs, and decentralized proving
-- 🔭 I’m currently working on [MAYA-ZK](https://www.maya-zk.com), focusing on accelerating zero-knowledge proof algorithms and building a decentralized marketplace
+- 🔭 I’m currently building [MAYA-ZK](https://www.maya-zk.com), focusing on accelerating zero-knowledge provers
 - 💞️ I’m looking to collaborate on ZK, MAYA-ZK Projects, and decentralized proving initiatives
 - 📫 Contact -> @TiborTribus on Twitter, @tribuste on Telegram
 
